@@ -1,0 +1,23 @@
+{
+  "name": "boostrap-gulp-starter-kit",
+  "version": "1.0.0",
+  "description": "Bootstrap Gulp Starter Kit",
+  "main": "index.js",
+  "scripts": {
+    "dev": "gulp watch"
+  },
+  "author": "Luca Cattaneo",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^4.5.3"
+  },
+  "devDependencies": {
+    "autoprefixer": "^9.0.0",
+    "browser-sync": "^2.26.13",
+    "cssnano": "^4.1.10",
+    "gulp": "^4.0.2",
+    "gulp-postcss": "^9.0.0",
+    "gulp-sass": "^4.1.0",
+    "gulp-sourcemaps": "^3.0.0"
+  }
+}
