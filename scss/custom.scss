@@ -1,8 +1,9 @@
 /* Custom Styling */
 
 .head{
-  background: $info;
+  background: $primary;
   padding: $spacer * 2;
   margin: $spacer * 4 0;
   color: #fff;
+  border-radius: $border-radius;
 }
